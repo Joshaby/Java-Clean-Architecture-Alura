@@ -1,4 +1,4 @@
-package br.com.alura.escola.aplication.aluno.dto;
+package br.com.alura.escola.application.aluno.dto;
 
 import br.com.alura.escola.domain.aluno.Aluno;
 import br.com.alura.escola.domain.aluno.CPF;

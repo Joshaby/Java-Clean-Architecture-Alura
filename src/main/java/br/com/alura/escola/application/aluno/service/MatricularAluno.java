@@ -1,6 +1,6 @@
-package br.com.alura.escola.aplication.aluno.service;
+package br.com.alura.escola.application.aluno.service;
 
-import br.com.alura.escola.aplication.aluno.dto.MatricularAlunoDto;
+import br.com.alura.escola.application.aluno.dto.MatricularAlunoDto;
 import br.com.alura.escola.domain.aluno.Aluno;
 import br.com.alura.escola.domain.aluno.repository.RepositorioDeAlunos;
 

@@ -1,7 +1,7 @@
 package br.com.alura;
 
-import br.com.alura.escola.aplication.aluno.dto.MatricularAlunoDto;
-import br.com.alura.escola.aplication.aluno.service.MatricularAluno;
+import br.com.alura.escola.application.aluno.dto.MatricularAlunoDto;
+import br.com.alura.escola.application.aluno.service.MatricularAluno;
 import br.com.alura.escola.infra.aluno.repository.impl.RepositorioDeAlunosEmMemoria;
 
 import java.sql.*;

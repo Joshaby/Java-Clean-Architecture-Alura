@@ -1,4 +1,4 @@
-package br.com.alura.escola.aplication.indicacao.service;
+package br.com.alura.escola.application.indicacao.service;
 
 import br.com.alura.escola.domain.aluno.Aluno;
 
